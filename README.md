@@ -41,8 +41,6 @@ netflix-data-analysis/
 │   ├── content_type_chart.png
 │   └── top_genres_chart.png
 │
-├── notebook/
-│
 ├── src/
 │   └── analysis.py
 │
