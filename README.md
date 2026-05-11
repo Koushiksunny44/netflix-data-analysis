@@ -36,6 +36,7 @@ netflix-data-analysis/
 │
 ├── data/
 ├── images/
+├── src/
 ├── main.py
 ├── README.md
 └── requirements.txt
