@@ -35,11 +35,21 @@ Netflix Movies and TV Shows dataset from Kaggle.
 netflix-data-analysis/
 │
 ├── data/
+│   └── netflix_titles.csv
+│
 ├── images/
+│   ├── content_type_chart.png
+│   └── top_genres_chart.png
+│
+├── notebook/
+│
 ├── src/
+│   └── analysis.py
+│
 ├── main.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 ## How to Run
