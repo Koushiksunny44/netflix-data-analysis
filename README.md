@@ -9,6 +9,12 @@ The analysis includes:
 - Content trend analysis
 - Data visualization
 
+## Dataset
+Netflix Movies and TV Shows dataset sourced from Kaggle:
+
+Dataset Link:  
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Technologies Used
 - Python
 - Pandas
